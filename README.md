@@ -8,7 +8,7 @@ Checklist pour le référencement d'un site web
 • Observer les annonces google Adwords et les recherches associées dans la barre de navigation
 • Observer ce qu’écrivent les concurrents, les bonnes idées notées
 • De vérifier que les contenus des pages / articles sont de grande qualité / textes optimisés SEO
-• Un '<title>' pour chaque page : 55 caractères (activité, zone géographique...)
+• Un `<title>` pour chaque page : 55 caractères (activité, zone géographique...)
 • Une meta name="description" 155 caractères pour chaque page
 • Travailler l’organisation du contenu et la hiérarchie de l’information
 • Respecter la sémantique global html lors de l'intégration
