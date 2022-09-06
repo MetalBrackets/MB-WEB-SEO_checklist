@@ -3,8 +3,8 @@ Checklist pour le référencement d'un site web
 
 ## Avant la sortie du site
 
-• Lister en priorité tous les mots clés;
-• Tester vos mots avec Trends;
+• Lister en priorité tous les mots clés
+• Tester vos mots avec Trends
 • Observer les annonces google Adwords et les recherches associées dans la barre de navigation
 • Observer ce qu’écrivent les concurrents, les bonnes idées notées
 • De vérifier que les contenus des pages / articles sont de grande qualité / textes optimisés SEO
